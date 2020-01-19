@@ -1,15 +1,16 @@
-TroyHack20
-January 17-19th, 2020
-Miranda: msappington@troy.edu     
-Rob: rcoones@troy.edu
-Mitchell: mmashburn@troy.edu
-LaKorte: lpotter153555@troy.edu
+<h1>TroyHack20</h1>
+<h3>January 17-19th, 2020</h3>
+
+* Miranda: msappington@troy.edu     
+* Rob: rcoones@troy.edu
+* Mitchell: mmashburn@troy.edu
+* LaKorte: lpotter153555@troy.edu
    
-	Theme: BusinessGeneral Idea: Application created in Android Studio by Miranda, Mitchell, LaKorte, & Rob.
- Targeted currently towards construction work, the application would deliver 3-fold: tracks & incentivizes employee
- clock-in/out & break-in/outs tracked and verified by GPS location in relation to employer-posted jobsite coordinates;
- compiles this data for employers to utilize; and provides a platform with which to document and publicize/advertise
- jobsite progress & interaction/impediment to the community via social media integration & GPS pinning.
+Theme: BusinessGeneral Idea: Application created in Android Studio by Miranda, Mitchell, LaKorte, & Rob.
+Targeted currently towards construction work, the application would deliver 3-fold: tracks & incentivizes employee
+clock-in/out & break-in/outs tracked and verified by GPS location in relation to employer-posted jobsite coordinates;
+compiles this data for employers to utilize; and provides a platform with which to document and publicize/advertise
+jobsite progress & interaction/impediment to the community via social media integration & GPS pinning.
 
 ------App begins with a login screen. Users may log in using email and a password, or log in using Facebook or Google
 credentials.Upon logging in, the interface displays a timer with a button underneath allowing manual clocking in/out.
